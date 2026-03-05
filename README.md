@@ -1,5 +1,7 @@
 # Middle-Earth Battle - Java Project
 
+
+![battle of The Lord of the Rings](https://res.cloudinary.com/duzljw2pp/image/upload/v1772716148/batalla-se%C3%B1or-de-los-anillos_liknhh.jpg)
 ## Description
 This project simulates a battle in Middle-Earth between the forces of good and evil.  
 Each race has a strength value between 1 and 5, and the total army strength is calculated by multiplying the number of members of each race by their respective strength value.
